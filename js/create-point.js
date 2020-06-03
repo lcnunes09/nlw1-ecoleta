@@ -14,8 +14,8 @@ function populateUFs() {
 populateUFs()
 
 function getCities(event){
-    const citySelect = document.querySelector("[name=city]")
-    const stateInput = document.querySelector("[name=state]")
+    const citySelect = document.querySelector("select[name=city]")
+    const stateInput = document.querySelector("input[name=state]")
 
     const ufValue = event.target.value
     const url = `https://servicodados.ibge.gov.br/api/v1/localidades/estados/${ufValue}/municipios`
