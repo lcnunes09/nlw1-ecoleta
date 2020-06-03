@@ -78,12 +78,12 @@ form input, form select {
     border-radius: 8px;
     /* outline: none; */
 }
-
+/* 
 form select {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-}
+} */
 
 form label {
     font-size: 14px;
