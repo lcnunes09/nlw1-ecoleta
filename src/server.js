@@ -2,6 +2,7 @@
 // npm install express
 // npm install nodemon -D
 // npm install nunjucks
+// npm install sqlite3 - node src/database/db.js
 
 // Quando baixar o projeto: 
 // npm install
