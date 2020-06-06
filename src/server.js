@@ -11,6 +11,8 @@
 const express = require("express")
 const server = express()
 
+const db = require("./database/db")
+
 server.use(express.static("public"))
 
 const nunjucks = require("nunjucks")
