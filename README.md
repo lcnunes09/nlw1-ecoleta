@@ -18,4 +18,17 @@ Acessar: http://localhost:3000/
 
 ## Funcionalidades
 ♻️ Adicionar Pontos de Coleta
+
 ♻️ Pesquisar Pontos de Coleta cadastrados
+
+
+## TechStack
+- HTML5
+- CSS3
+- JavaScript
+- NodeJS & Express
+- Nunjucks [Templates]
+- Nodemon
+- SQLite
+
+Utilizando API do IBGE para pegar Estados e Cidades
